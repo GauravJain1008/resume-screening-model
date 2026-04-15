@@ -33,7 +33,7 @@ Data Collection → Preprocessing → Feature Engineering → Model Training →
 
 ---
 
-## 📂 Dataset
+##  Dataset
 
 The dataset consists of structured candidate information:
 
@@ -49,9 +49,9 @@ The dataset consists of structured candidate information:
 
 ---
 
-## ⚙️ Tech Stack
+##  Tech Stack
 
-- Python 🐍  
+- Python   
 - Scikit-learn  
 - Pandas & NumPy  
 - Matplotlib & Seaborn  
@@ -70,7 +70,7 @@ The model demonstrates strong generalization with minimal overfitting.
 
 ---
 
-## 📊 Evaluation Metrics
+##  Evaluation Metrics
 
 - Accuracy  
 - Precision  
@@ -80,7 +80,7 @@ The model demonstrates strong generalization with minimal overfitting.
 
 ---
 
-## 🖥️ Web Application
+##  Web Application
 
 The project includes a Streamlit-based UI where users can input candidate details and get instant predictions.
 
