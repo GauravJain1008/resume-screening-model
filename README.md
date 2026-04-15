@@ -59,7 +59,7 @@ The dataset consists of structured candidate information:
 
 ---
 
-## 🤖 Model Details
+##  Model Details
 
 - Algorithm: **Random Forest Classifier**
 - Training Accuracy: ~92%
